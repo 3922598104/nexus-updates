@@ -1,9 +1,9 @@
 {
-  "version": "6.0",
+  "version": "1.0.0",
   "force": true,
-  "note": "\u8FDE\u8DF3\u63D0\u901F \u002B AirStrafe \u529B\u5EA6\u4FEE\u590D",
+  "note": "Nexus \u6B63\u5F0F\u7248 1.0.0\uFF1AESP \u900F\u89C6\u3001\u81EA\u7784/\u9759\u9ED8\u81EA\u7784\u3001\u65E0\u540E\u5EA7\u65E0\u6563\u5E03\u3001\u5185\u5B58\u8FDE\u8DF3\u002B\u7A7A\u4E2D\u4FA7\u79FB\u3001\u4E3B\u6B66\u5668\u7F8E\u5316\uFF08\u6A21\u578B/\u58F0\u97F3/HUD \u540C\u6B65\uFF09\uFF0C\u5185\u7F6E  \u4E91\u66F4\u65B0\u3002",
   "date": "2026-11-17",
-  "exe": "https://github.com/3922598104/nexus-updates/releases/download/v6.0/NexusInjector.exe",
-  "sha256": "4f158cf45f4c91c9aa4bb2f8084e55ad8f3b657c183f8a26dbe87aad671b5f2e",
-  "size": 123713280
+  "exe": "https://github.com/3922598104/nexus-updates/releases/download/v1.0.0/NexusInjector.exe",
+  "sha256": "c5c8904ae4724a76da5504091b9ec3326f0f9fefcaf63c922de57e20094d22c7",
+  "size": 123721447
 }
