@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "force": true,
-  "note": "Nexus \u6B63\u5F0F\u7248 1.0.0\uFF1AESP \u900F\u89C6\u3001\u81EA\u7784/\u9759\u9ED8\u81EA\u7784\u3001\u65E0\u540E\u5EA7\u65E0\u6563\u5E03\u3001\u5185\u5B58\u8FDE\u8DF3\u002B\u7A7A\u4E2D\u4FA7\u79FB\u3001\u4E3B\u6B66\u5668\u7F8E\u5316\uFF08\u6A21\u578B/\u58F0\u97F3/HUD \u540C\u6B65\uFF09\uFF0C\u5185\u7F6E  \u4E91\u66F4\u65B0\u3002",
+  "note": "V1.1.0\u7248\u672C\u53D1\u5E03\uFF1A\u4FEE\u590D\u4E86\u90E8\u5206bug\uFF0C\u4F18\u5316\u4F53\u9A8C\u3002\r\n\u5185\u5B58\u8FDE\u8DF3\u529F\u80FD\u6682\u65F6\u672A\u4FEE\u590D\uFF0C\u81EA\u52A8\u8F6C\u5934\u8EB2\u5B50\u5F39\u529F\u80FD\u540E\u7EED\u5F00\u53D1\uFF0C\u6B64\u7248\u672C\u4E3A\u5F3A\u5236\u66F4\u65B0\uFF0C\u5982\u9047\u5230\u4E0B\u8F7D\u901F\u5EA6\u6162\u8BF7\u8FDE\u63A5\u4EE3\u7406\u5E76\u52A0\u901Fgithub",
   "date": "2026-11-17",
-  "exe": "https://github.com/3922598104/nexus-updates/releases/download/v1.0.0/NexusInjector.exe",
-  "sha256": "c5c8904ae4724a76da5504091b9ec3326f0f9fefcaf63c922de57e20094d22c7",
-  "size": 123721447
+  "exe": "https://github.com/3922598104/nexus-updates/releases/download/v1.1.0/NexusInjector.exe",
+  "sha256": "b8031465604add46315ee6a9393036da1564d337e5b9fbfca5b68b773eaef766",
+  "size": 123731620
 }
